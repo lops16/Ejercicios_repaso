@@ -38,5 +38,14 @@ let askAge = parseInt(prompt("¿Cuantos años tienes?"));
 alquiler(askAge)
 
 
+//otra forma
 
+/* let semanas = 0 
+while(dias >=7){
+    dias -=7 //dias = dias -7
+    semanas ++ // semanas = semanas +1
+}
+
+let preciototal = (dias*25) + (semanas*150);
+console.log(Nombre: $(nombre) Ciudad: $(city) Precio: $(preciototal)); */
 
